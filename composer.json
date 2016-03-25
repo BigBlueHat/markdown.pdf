@@ -1,0 +1,6 @@
+{
+  "require": {
+    "erusev/parsedown": "1.6.0",
+    "tecnickcom/tcpdf": "6.2.12"
+  }
+}
